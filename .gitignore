@@ -6,3 +6,6 @@
 *.jar
 *.ear
 *.rar
+/out
+/META-INF
+/target
